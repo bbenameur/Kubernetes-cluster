@@ -14,5 +14,5 @@ bbenameur@controlplane: ̃$ bash k8control-plane.sh
 ```
 
 ```console
-bbenameur@worker: ̃$ bahhh k8s-worker.sh
+bbenameur@worker: ̃$ bash k8s-worker.sh
 ```
