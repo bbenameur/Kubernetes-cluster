@@ -6,3 +6,13 @@ We will create a 3-nodeUbuntu 20.04cluster. Using 3 nodes allows an understandin
 - Don’t use 192.168 network for nodes
 - No firewall
 - Disable swap
+
+## Deploy a Control Plane Node using Kubeadm
+
+```console
+bbenameur@controlplane: ̃$ bash k8control-plane.sh 
+```
+
+```console
+bbenameur@worker: ̃$ bahhh k8s-worker.sh
+```
